@@ -22,7 +22,11 @@ using namespace std;
 typedef tree<int, null_type, less<int>, rb_tree_tag, tree_order_statistics_node_update> pbds;
 int32_t main()
 {
-    w(x);
+    w(x)
+    {
+        int x;
+        cin>>x;
+    }
     return 0;
 }
 
