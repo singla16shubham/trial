@@ -28,6 +28,9 @@ int32_t main()
         cin>>x;
         int ansh;
         cin>>ansh;
+        cout<<"Enter Chawla's properties:";
+        
+        
     }
     return 0;
 }
