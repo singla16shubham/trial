@@ -28,6 +28,8 @@ int32_t main()
         cin>>x;
         int ansh;
         cin>>ansh;
+        int p;
+        cin>>p;
     }
     return 0;
 }
