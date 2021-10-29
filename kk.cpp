@@ -26,6 +26,8 @@ int32_t main()
     {
         int x;
         cin>>x;
+        int ansh;
+        cin>>ansh;
     }
     return 0;
 }
